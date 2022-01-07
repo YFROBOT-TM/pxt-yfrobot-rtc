@@ -1,0 +1,9 @@
+{
+    "YFRTCPCF.setData|param|data": "日期/时间",
+    "YFRTCPCF.setData|param|num": "当前日期/时间值",
+    "YFRTCPCF.setData": "设置RTC时钟模块的日期/时间",
+    "YFRTCPCF.readData|param|data": "日期/时间",
+    "YFRTCPCF.readData": "获取RTC时钟模块的日期/时间",
+    "YFRTCPCF.readDataReal|param|data": "日期/时间",
+    "YFRTCPCF.readDataReal": "获取RTC模块中的日期/时间的原始值"
+}

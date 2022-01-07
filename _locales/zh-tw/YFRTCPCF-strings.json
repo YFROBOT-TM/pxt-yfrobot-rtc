@@ -1,0 +1,13 @@
+{
+    "YFRTCPCF.DataUnit.Year|block": "年",
+    "YFRTCPCF.DataUnit.Month|block": "月",
+    "YFRTCPCF.DataUnit.Day|block": "日",
+    "YFRTCPCF.DataUnit.Weekday|block": "星期",
+    "YFRTCPCF.DataUnit.Hour|block": "時",
+    "YFRTCPCF.DataUnit.Minute|block": "分",
+    "YFRTCPCF.DataUnit.Second|block": "秒",
+    "YFRTCPCF.setData|block": "RTC時鐘設置 %data | %num",
+    "YFRTCPCF.readData|block": "RTC時鐘獲取 %data",
+    "YFRTCPCF.readDataReal|block": "RTC獲得原始值 %data",
+    "{id:category}YFRTCPCF": "RTC時鐘"
+}
